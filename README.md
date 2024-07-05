@@ -2,7 +2,7 @@ resources
 - Rust Docs (high overview) [see](https://doc.rust-lang.org/nightly/)
 - The Book [see](https://doc.rust-lang.org/book)
 - Rust By Example [see](https://doc.rust-lang.org/rust-by-example/index.html)
-- Rust with Rust Cookbook [see](https://rust-lang-nursery.github.io/rust-cookbook/)
+- Rust Cookbook [see](https://rust-lang-nursery.github.io/rust-cookbook/)
 - Rustlings [see](https://github.com/rust-lang/rustlings)
 - PNGme [see](https://jrdngr.github.io/pngme_book/)
 - Rust Analyzer [see](https://rust-analyzer.github.io/)

@@ -1,10 +1,14 @@
-resources
+learn and reference
 - Rust Docs (high overview) [see](https://doc.rust-lang.org/nightly/)
-- The Book [see](https://doc.rust-lang.org/book)
+- Rust The Book [see](https://doc.rust-lang.org/book)
 - Rust By Example [see](https://doc.rust-lang.org/rust-by-example/index.html)
-- Rust Cookbook [see](https://rust-lang-nursery.github.io/rust-cookbook/)
+
+practice
 - Rustlings [see](https://github.com/rust-lang/rustlings)
-- PNGme [see](https://jrdngr.github.io/pngme_book/)
+- Rust Cookbook [see](https://rust-lang-nursery.github.io/rust-cookbook/)
+- PNGme (intermediate) [see](https://jrdngr.github.io/pngme_book/)
+
+deeper
 - Rust Analyzer [see](https://rust-analyzer.github.io/)
 - YT Rust Analyzer Explain - [see](https://www.youtube.com/playlist?list=PLhb66M_x9UmrqXhQuIpWC5VgTdrGxMx3y)
 - Rust memory layout [see](https://github.com/amindWalker/Rust-Layout-and-Types)
